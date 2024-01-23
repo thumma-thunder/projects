@@ -1,9 +1,0 @@
-Name: Interview
-Character: Chocolate_Chaneum
-Gold: 0
-Stamina: 58
-Candies: 
-Toxic Taffy
-Lucky Licorice
-Fearsome Fudge
-Venomous Vortex
