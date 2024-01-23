@@ -1,0 +1,6 @@
+Toffee_Tushar|80|20|Frosty Fizz,Toxic Taffy,Bubblegum Blast,Caramel Comet,Lucky Licorice
+JellyBean_Jane|80|50|Venomous Vortex,Lucky Licorice,Fearsome Fudge,Crimson Crystal
+Lollipop_Lilly|50|30|Mystic Marshmallow,Caramel Comet,Bubblegum Blast,Hairy Lollipop,Fearsome Fudge
+Nitrous_Nick|35|60|Venomous Vortex,Lifesaver Laurel,Fearsome Fudge,Mystic Marshmallow
+Chocolate_Chaneum|65|50|Toxic Taffy,Lucky Licorice,Fearsome Fudge,Lifesaver Laurel
+CandyCane_Cain|100|25|Ruby Rapture,Hairy Lollipop,Crimson Crystal
